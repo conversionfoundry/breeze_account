@@ -4,6 +4,8 @@ module Breeze
       include Mongoid::Document
 
 
+      field :first_name
+      field :last_name
 
       # Include default devise modules. Others available are:
       # :token_authenticatable, :confirmable, :lockable and :timeoutable
