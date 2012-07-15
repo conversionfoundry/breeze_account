@@ -1,1 +1,1 @@
-# BreezeAccount
+require "breeze/account"
