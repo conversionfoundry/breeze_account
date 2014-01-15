@@ -1,4 +1,5 @@
 require "breeze/account/engine"
+require "breeze/account/version"
 
 module Breeze
   module Account
